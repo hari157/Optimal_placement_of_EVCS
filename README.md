@@ -14,7 +14,7 @@ of these objectives and we can infer the solution quality from the end result ob
 also scale this to larger networks and observe the quality of solutions for a fixed computational running
 time.
 
-Here,In this Project our team has taken a region of 200*350 km.
+Here,In this Project our team has taken a region of 200*350 km.\n
 Sample comparsion b/w Genetic Algorithm and 
 ![image](https://github.com/hari157/Optimal_placement_of_EVCS/assets/47861440/82477005-fa62-4121-8530-115d5f9613f8)
 
