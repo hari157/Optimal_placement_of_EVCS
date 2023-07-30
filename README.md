@@ -16,4 +16,5 @@ time.
 
 Here,In this Project our team has taken a region of 200*350 km.
 ![image](https://github.com/hari157/Optimal_placement_of_EVCS/assets/47861440/82477005-fa62-4121-8530-115d5f9613f8)
+
 Sample comparsion b/w Genetic Algorithm and Particle Swarm Optimization
