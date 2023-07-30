@@ -18,3 +18,7 @@ Here,In this Project our team has taken a region of 200*350 km.
 ![image](https://github.com/hari157/Optimal_placement_of_EVCS/assets/47861440/82477005-fa62-4121-8530-115d5f9613f8)
 
 Sample comparsion b/w Genetic Algorithm and Particle Swarm Optimization
+
+In this project,we able to find that we can place 70 charging stations in that region from the below results
+![image](https://github.com/hari157/Optimal_placement_of_EVCS/assets/47861440/f3560c89-cd8a-47f8-8089-8eb88f03d5f7)
+
